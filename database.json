@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "JohnDoe@gmail.com",
+      "age": "20",
+      "companyId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Frank",
+      "lastName": "Edgar",
+      "email": "Edgar@gmail.com",
+      "age": 19,
+      "companyId": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Ball",
+      "lastName": "Dal",
+      "email": "BallDall@gmail.com",
+      "age": 23,
+      "companyId": 3
+    },
+    {
+      "id": 5,
+      "firstName": "Borya",
+      "lastName": "Mih",
+      "email": "BoryaMihgmail.com",
+      "age": 28,
+      "companyId": 1
+    },
+    {
+      "id": 6,
+      "firstName": "Roma",
+      "lastName": "Vasha",
+      "email": "RomaVasha@gmail.com",
+      "age": 29,
+      "companyId": 2
+    },
+    {
+      "id": 7,
+      "firstName": "Roma",
+      "lastName": "Vasha",
+      "email": "RomaVasha@gmail.com",
+      "age": 29,
+      "companyId": 2
+    },
+    {
+      "id": 8,
+      "firstName": "Roma",
+      "lastName": "Vasha",
+      "email": "RomaVasha@gmail.com",
+      "age": 29,
+      "companyId": 2
+    },
+    {
+      "id": 9,
+      "firstName": "Roma",
+      "lastName": "Vasha",
+      "email": "RomaVasha@gmail.com",
+      "age": 29,
+      "companyId": 2
+    },
+    {
+      "id": 10,
+      "firstName": "Roma",
+      "lastName": "Vasha",
+      "email": "RomaVasha@gmail.com",
+      "age": 29,
+      "companyId": 2
+    },
+    {
+      "id": 11,
+      "firstName": "Roma",
+      "lastName": "Vasha",
+      "email": "RomaVasha@gmail.com",
+      "age": 29,
+      "companyId": 2
+    },
+    {
+      "id": 12,
+      "firstName": "Roma",
+      "lastName": "Vasha",
+      "email": "RomaVasha@gmail.com",
+      "age": 29,
+      "companyId": 2
+    },
+    {
+      "firstName": "Roma",
+      "lastName": "Vasha",
+      "email": "RomaVasha@gmail.com",
+      "age": 29,
+      "companyId": 2,
+      "id": 13
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple.",
+      "description": "Apple mission is “to bringing the best user experience to its customers through its innovative hardware, software, and services.” And in a manifesto dated 2009 Tim Cook set the vision specified as “We believe that we are on the face of the earth to make great products and that's not changing.”"
+    },
+    {
+      "id": 2,
+      "name": "Amazon.",
+      "description": "Amazon.com, Inc. engages in the provision of online retail shopping services. It operates through the following business segments: North America, International, and Amazon Web Services (AWS). ... The International segment offers retail sales of consumer products and subscriptions through internationally-focused websites.”"
+    },
+    {
+      "id": 3,
+      "name": "Facebook.",
+      "description": "Facebook, Inc. operates as a social networking company worldwide. The company engages in the development of social media applications for people to connect through mobile devices, personal computers, and other surfaces. It enables users to share opinions, ideas, photos, videos, and other activities online.”"
+    }
+  ]
+}
